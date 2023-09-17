@@ -13,7 +13,7 @@ cd triluxo
 3. Install required packages:
 npm install
 
-4. Set up MongoDB connection in `server.js`.
+4. Set up MongoDB connection in `db.js`.
 
 ## Deployed App
 https://triluxo.onrender.com/
