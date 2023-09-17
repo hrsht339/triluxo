@@ -16,7 +16,7 @@ npm install
 4. Set up MongoDB connection in `server.js`.
 
 ## Deployed App
-https://deployed-site.whatever
+https://triluxo.onrender.com/
 
 ## Video Walkthrough of the project
 
