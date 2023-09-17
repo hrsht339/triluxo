@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
+require("dotenv").config()
 
-
-const connection = mongoose.connect('mongodb+srv://harshit:sahu@cluster0.pylf6yp.mongodb.net/triluxo?retryWrites=true&w=majority', {
+const connection = mongoose.connect(process.env.mongoUrl, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
