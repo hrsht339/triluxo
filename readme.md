@@ -19,7 +19,7 @@ npm install
 https://triluxo.onrender.com/
 
 ## Video Walkthrough of the project
-
+https://vimeo.com/865245892/b29e24f812
 
 ## Endpoints
 
