@@ -21,6 +21,9 @@ https://triluxo.onrender.com/
 ## Video Walkthrough of the project
 https://vimeo.com/865245892/b29e24f812
 
+## Postman Collection link
+https://restless-shadow-616131.postman.co/workspace/my-workspace~92abef05-2c5d-484c-b7cb-12aa4c6b2c4f/collection/24260844-158c0f67-7f6e-4b06-9398-416f1732b85d?action=share&creator=24260844
+
 ## Endpoints
 
 - **GET /api/books**: Get a list of all books.
